@@ -1,0 +1,2 @@
+record1_index,record2_index,record1_email,record2_email,predicted_proba,feedback
+51,52,projas@example.org,juliehughes@example.net,0.6936671,No
