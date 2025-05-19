@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+xgboost
+networkx
+shap
+python-multipart
+openpyxl
+joblib
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers

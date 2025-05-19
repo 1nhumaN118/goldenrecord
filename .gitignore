@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+
+# FastAPI
+data/uploads/
+data/session/
+model/trained_model.pkl
+model/shap_explainer.pkl
+
+# Node
+node_modules/
+.next/
+out/
+
+# Build
+dist/
+*.spec
