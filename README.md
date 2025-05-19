@@ -1,4 +1,4 @@
-# 🧠 GoldenRecord UI
+#  GoldenRecord UI
 
 A TypeScript + Next.js frontend for the GoldenRecord entity resolution system.
 

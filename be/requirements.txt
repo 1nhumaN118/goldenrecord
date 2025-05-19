@@ -1,13 +1,15 @@
+# Backend
 fastapi
 uvicorn
 pandas
 scikit-learn
 xgboost
-networkx
 shap
-python-multipart
-openpyxl
 joblib
-fuzzywuzzy
-python-Levenshtein
+openpyxl
+python-multipart
+networkx
 sentence-transformers
+matplotlib
+
+# Frontend (via package.json, not installed via pip)
